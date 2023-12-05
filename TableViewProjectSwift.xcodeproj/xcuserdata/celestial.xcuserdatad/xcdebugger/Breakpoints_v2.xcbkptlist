@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3D71B26-9073-4AFD-946D-18C77CEFD488"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88323C8F-F093-4322-ACC8-0B576FA38973"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Group/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "88323C8F-F093-4322-ACC8-0B576FA38973 - 8c962ff917a4b53c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProjectSwift.SecondViewController.labelForTableview.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TableViewProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/celestial/Developer/Swift%20WIth%20StoryBoard%20Project/TableViewProjectSwift/New%20Group/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "88323C8F-F093-4322-ACC8-0B576FA38973 - 565a38fc6bf8d18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProjectSwift.SecondViewController.labelForTableview.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TableViewProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/celestial/Developer/Swift%20WIth%20StoryBoard%20Project/TableViewProjectSwift/New%20Group/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "88323C8F-F093-4322-ACC8-0B576FA38973 - a0313db11d2ddb88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProjectSwift.SecondViewController.labelForTableview.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TableViewProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/celestial/Developer/Swift%20WIth%20StoryBoard%20Project/TableViewProjectSwift/New%20Group/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "88323C8F-F093-4322-ACC8-0B576FA38973 - e3fdd417dbb93eb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProjectSwift.SecondViewController.labelForTableview.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TableViewProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/celestial/Developer/Swift%20WIth%20StoryBoard%20Project/TableViewProjectSwift/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "88323C8F-F093-4322-ACC8-0B576FA38973 - 85ade38c01741387"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProjectSwift.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TableViewProjectSwift.SecondViewController"
+                  moduleName = "TableViewProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/celestial/Developer/Swift%20WIth%20StoryBoard%20Project/TableViewProjectSwift/New%20Group/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "88323C8F-F093-4322-ACC8-0B576FA38973 - 485df8bef6c8d9b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProjectSwift.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TableViewProjectSwift.SecondViewController&gt;"
+                  moduleName = "TableViewProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/celestial/Developer/Swift%20WIth%20StoryBoard%20Project/TableViewProjectSwift/New%20Group/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE964BFA-1871-44FE-A16D-941AC185978B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Group/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F1A2D04-6368-4D3E-9507-2A93B02BBF37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Group/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87D0C7F0-C261-4AFD-A2D1-C945271B2C7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Group/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B44B3A7E-A7BD-4CDC-86B7-EEEAC784EEDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Group/MyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "addUser(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BADF751-CFA9-4C63-8E3C-AFBFDA0BB508"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Group/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
