@@ -7,9 +7,7 @@ https://github.com/Atulkrishnatiwari/TableView-On-Swift/assets/151607237/358000a
 <img src="https://github.com/Atulkrishnatiwari/TableView-On-Swift/assets/151607237/bf2eeae4-4900-4b21-9b6c-61d14ce85891" alt="Image 1" width="200">
 <img src="https://github.com/Atulkrishnatiwari/TableView-On-Swift/assets/151607237/481ed1cb-6709-43d7-a51e-c279afd71078" alt="Image 2" width="200">
 <img width="200" alt="Screenshot 2023-11-30 at 4 25 22 PM" src="https://github.com/Atulkrishnatiwari/TableView-On-Swift/assets/151607237/08ee3aed-0ddc-4411-90cf-ba92dacfc56e">
-
-
-
+<img src="https://github.com/Atulkrishnatiwari/TableView-On-Swift/assets/151607237/31e4f9ee-143a-49c1-a1cd-b1f6dd695820" alt="Image 2" width="200">
 ## Overview
 
 This is a simple Table View application in this we can store a person data and show that data into table view.
